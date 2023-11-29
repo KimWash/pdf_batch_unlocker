@@ -5,6 +5,9 @@
 
 ## 사용법
 ```bash
+git clone https://github.com/KimWash/pdf_batch_unlocker.git
+cd pdf_batch_unlocker
+# 프로젝트 폴더 내의 어딘가로 pdf파일 이동
 pip install -r requirements.txt # 실행에 필요한 pikepdf, argparse 를 깔아줍니다. 
 python main.py --password PASSWORD --src SOURCE_DIRECTORY --dst DESTINATION_DIRECTORY
 ```
