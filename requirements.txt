@@ -1,0 +1,2 @@
+pikepdf==8.7.1
+argparse==1.4.0
